@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylPitchGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylPitchGet",
+  "parent":{
+    "name":"Pitch",
+    "path":"folders/Extensions/Vinyl/Pitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

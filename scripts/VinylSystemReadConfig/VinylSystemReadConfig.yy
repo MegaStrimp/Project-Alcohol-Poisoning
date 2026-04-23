@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylSystemReadConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylSystemReadConfig",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Extensions/Vinyl/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

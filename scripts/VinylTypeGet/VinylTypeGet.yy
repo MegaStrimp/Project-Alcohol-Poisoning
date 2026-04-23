@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylTypeGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylTypeGet",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Extensions/Vinyl/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

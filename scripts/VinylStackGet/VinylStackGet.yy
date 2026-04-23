@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylStackGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylStackGet",
+  "parent":{
+    "name":"Stacks",
+    "path":"folders/Extensions/Vinyl/Stacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,3 @@
+Check Before Release
+--------------------
+* Always check the version number

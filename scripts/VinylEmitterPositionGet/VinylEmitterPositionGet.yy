@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylEmitterPositionGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylEmitterPositionGet",
+  "parent":{
+    "name":"Positional",
+    "path":"folders/Extensions/Vinyl/Positional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

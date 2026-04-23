@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylPausedGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylPausedGet",
+  "parent":{
+    "name":"Pausing",
+    "path":"folders/Extensions/Vinyl/Pausing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

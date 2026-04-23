@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylPersistentGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylPersistentGet",
+  "parent":{
+    "name":"Persistence",
+    "path":"folders/Extensions/Vinyl/Persistence.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

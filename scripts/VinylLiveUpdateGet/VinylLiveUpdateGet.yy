@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylLiveUpdateGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylLiveUpdateGet",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Extensions/Vinyl/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

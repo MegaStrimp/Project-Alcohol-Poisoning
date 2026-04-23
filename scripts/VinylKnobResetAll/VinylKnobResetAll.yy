@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylKnobResetAll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylKnobResetAll",
+  "parent":{
+    "name":"Knobs",
+    "path":"folders/Extensions/Vinyl/Knobs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

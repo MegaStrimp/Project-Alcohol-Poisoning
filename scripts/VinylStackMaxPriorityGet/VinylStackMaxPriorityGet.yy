@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylStackMaxPriorityGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylStackMaxPriorityGet",
+  "parent":{
+    "name":"Stacks",
+    "path":"folders/Extensions/Vinyl/Stacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

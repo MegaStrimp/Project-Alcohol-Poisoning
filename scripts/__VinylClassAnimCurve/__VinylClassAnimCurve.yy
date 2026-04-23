@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__VinylClassAnimCurve",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__VinylClassAnimCurve",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Extensions/Vinyl/(Internals)/VIPs only in the green room/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylLabelVoiceCountGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylLabelVoiceCountGet",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Extensions/Vinyl/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

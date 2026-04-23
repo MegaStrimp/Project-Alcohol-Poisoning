@@ -1,0 +1,20 @@
+Worklist
+--------------------
+Version 2.0.0
+---------------
+* Add coop support for Input
+* Add Neko Presence
+
+* Add Yerba Mate Menu
+* Add Platformer Microgame
+* Add Shooter Microgame
+* Add Turn Based Microgame
+* Add Visual Novel Microgame
+* Add Rhythm Microgame
+* Add Racing Microgame
+
+Version 3.0.0
+---------------
+* Add Tetris Microgame
+* Add Snake Microgame
+* Add Card Microgame

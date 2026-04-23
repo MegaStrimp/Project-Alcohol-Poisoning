@@ -1,0 +1,11 @@
+Version 1.0.0
+--------------------
+* Release
+
+Version 2.0.0
+--------------------
+* Added Notes
+* Updated some code and formatting
+* Added JujuAdams' Scribble
+* Added JujuAdams' Input
+* Added JujuAdams' Vinyl

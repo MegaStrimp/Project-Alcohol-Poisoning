@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Timer",
+  "name":"Timer",
+  "parent":{
+    "name":"Shortcuts",
+    "path":"folders/Notes/Shortcuts.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylKnobTargetSet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylKnobTargetSet",
+  "parent":{
+    "name":"Knobs",
+    "path":"folders/Extensions/Vinyl/Knobs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

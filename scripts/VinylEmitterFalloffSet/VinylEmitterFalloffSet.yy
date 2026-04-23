@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylEmitterFalloffSet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylEmitterFalloffSet",
+  "parent":{
+    "name":"Positional",
+    "path":"folders/Extensions/Vinyl/Positional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

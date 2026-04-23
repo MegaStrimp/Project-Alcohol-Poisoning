@@ -1,0 +1,15 @@
+About
+--------------------
+Yerba Mate Engine
+Compiled by MegaStrimp
+
+A personal engine with various quality of life features to make development smoother on new projects.
+
+Credits
+--------------------
+* Pixelated Pope - Retro Palette Swapper
+* JujuAdams - Scribble
+* JujuAdams - Input
+* JujuAdams - Vinyl
+* Mimpy - Sine Script
+* Pixelated Pope - Twerp Script

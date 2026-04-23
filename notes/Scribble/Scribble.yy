@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Scribble",
+  "name":"Scribble",
+  "parent":{
+    "name":"Guides",
+    "path":"folders/Notes/Guides.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

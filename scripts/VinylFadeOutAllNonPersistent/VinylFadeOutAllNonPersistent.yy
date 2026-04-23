@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylFadeOutAllNonPersistent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylFadeOutAllNonPersistent",
+  "parent":{
+    "name":"Persistence",
+    "path":"folders/Extensions/Vinyl/Persistence.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

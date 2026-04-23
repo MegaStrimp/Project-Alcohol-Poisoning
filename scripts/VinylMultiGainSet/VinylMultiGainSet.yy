@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylMultiGainSet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylMultiGainSet",
+  "parent":{
+    "name":"Multi Patterns",
+    "path":"folders/Extensions/Vinyl/Multi Patterns.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
